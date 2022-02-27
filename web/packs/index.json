@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "FroggingFamily_by_FroggingFamilyBot.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
